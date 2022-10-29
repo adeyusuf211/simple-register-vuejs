@@ -1,19 +1,3 @@
-# simple-vue-register
+# MEMBUAT PROGRAM REGISTRASI SEDERHANA DENGAN VUEJS
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Ini adalah sebuah program registrasi sederhana yang di buat dnegan menggunakan vue js. Program ini dibuat dengan tujuan untuk melatih pemahaman pribadi saya mengenai vue js karena akhir-akhir ini saya tengah mempelajari teknologi ini.
